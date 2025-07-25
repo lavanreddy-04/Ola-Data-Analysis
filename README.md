@@ -122,3 +122,5 @@ Overall Page : https://github.com/lavanreddy-04/Ola-Data-Analysis/blob/main/Over
 Vehicle Type Page : https://github.com/lavanreddy-04/Ola-Data-Analysis/blob/main/Vehicle%20Type%20Page.png
 
 Revenue Page : https://github.com/lavanreddy-04/Ola-Data-Analysis/blob/main/Revenue%20Page.png
+
+Cancelation Page : https://github.com/lavanreddy-04/Ola-Data-Analysis/blob/main/Cancellation%20Page.png
