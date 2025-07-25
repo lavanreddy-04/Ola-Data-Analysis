@@ -112,3 +112,9 @@ OLA DATA ANALYSIS (SQL).sql – All 15+ SQL queries & views
 OLA data analysis.pbit – Power BI report/dashboard template
 
 hyderabad_booking_data.csv.xlsm – Raw dataset (Excel format)
+
+Screenshots :
+
+Power BI Dashboard :
+
+Overall Page : https://github.com/lavanreddy-04/Ola-Data-Analysis/blob/main/Overall%20Page.png
