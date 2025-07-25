@@ -120,3 +120,5 @@ Power BI Dashboard :
 Overall Page : https://github.com/lavanreddy-04/Ola-Data-Analysis/blob/main/Overall%20Page.png
 
 Vehicle Type Page : https://github.com/lavanreddy-04/Ola-Data-Analysis/blob/main/Vehicle%20Type%20Page.png
+
+Revenue Page : https://github.com/lavanreddy-04/Ola-Data-Analysis/blob/main/Revenue%20Page.png
