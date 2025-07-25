@@ -1,4 +1,4 @@
-Ola-Data-Analysis
+Ola-Data-Analysis :
 A complete data analysis project on Ola ride bookings in Hyderabad city using MS Excel, MySQL, and Power BI. This project demonstrates how real-world business problems can be solved using data analytics, with a special focus on booking behavior, ride patterns, cancellations, revenue, and customer/driver ratings.
 📝Project Overview
 This project analyzes a generated dataset of Ola bookings in Hyderabad, containing 10,000 records and 19 columns related to ride metadata such as vehicle types, ratings, booking status, customer behavior, ride value, and cancellation reasons.
