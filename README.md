@@ -98,8 +98,11 @@ Detected weak-performing vehicle segments by low ratings.
 Weekend ride analysis uncovered higher cancellation percentages.
 
 Helped business answer:
+
 “Which customers contribute the most?”,
+
 “What reasons cause driver-initiated cancellations?”,
+
 “Where do most successful bookings start from?”
 
 📁 Files in the Repository:
